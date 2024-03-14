@@ -1,0 +1,4 @@
+Pizza 2000
+Stake 15000
+Cola 2300
+Shahlyk 12000
